@@ -1,0 +1,22 @@
+.MuiDialog-paper {
+    background-color: #FEFFFE;
+    color: #010001;
+}
+
+.MuiDialogTitle-root {
+    background-color: #F4F5F6;
+    color: #010001;
+}
+
+.MuiDialogContent-root {
+    padding: 20px;
+}
+
+.MuiDialogActions-root {
+    background-color: #F4F5F6;
+    padding: 10px 20px;
+}
+
+.MuiButton-textPrimary {
+    color: #010001;
+}

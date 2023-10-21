@@ -1,0 +1,38 @@
+.card-container {
+    background-color: #F4F5F6;
+    color: #010001;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.card {
+    width: 33%;
+}
+
+.card-container:hover {
+    background-color: #FEFFFE;
+}
+
+.card-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-id,
+.card-cartegory {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.card-cost {
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+}
