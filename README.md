@@ -1,7 +1,5 @@
 # AnalysisofCork-BasedNetworking
 
-![Minha Imagem](https://github.com/richardsanvie/AnalysisofCork-BasedNetworking.gif)
-
 ## Por quê?
 Este projeto faz parte do meu portfólio pessoal, então ficarei feliz se você puder me fornecer qualquer feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar que possa me tornar um desenvolvedor melhor!
 
