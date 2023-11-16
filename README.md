@@ -64,7 +64,7 @@ O seu projeto deve estar funcionando agora com as seguintes funcionalidades:
 Criar, ler, atualizar e excluir jogos no banco de dados.
 Clicar em cartões para editar e excluir.
 
-**5. Bibliotecas Usadas**
+**5. Bibliotecas, frameworks e ferramentas**
 
 Front-end:
 
